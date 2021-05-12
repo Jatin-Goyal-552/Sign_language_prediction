@@ -1,2 +1,23 @@
 # Sign_language_prediction
-# It is a small Deep Learning project to predict the sign language.
+
+<h3> It is a small Deep Learning project to predict the sign language.</h3>
+<p>Make any sign in red box and  it will predict the character associated with that sign in sign language.</p>
+<span>
+  <img src="interface.png" width="1000" height:"500" title="Starting interface">
+</span>
+<br>
+<p>If I make the sign of 'A' then it will predict that it is "A" </p>
+
+<span >
+  <img src="ia.png" width="1000" height="500" title="Enter non spam text">
+</span>
+<span >
+  <img src="f.png" width="1000" height="500" title="after pressing predict button">
+</span>
+<br>
+
+
+<span>
+  <img src="e.png" width="1000" height="500" title="Enter spam text">
+</span>
+
