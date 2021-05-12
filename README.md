@@ -3,7 +3,7 @@
 <h3> It is a small Deep Learning project to predict the sign language.</h3>
 <p>Make any sign in red box and  it will predict the character associated with that sign in sign language.</p>
 <span>
-  <img src="interface.png" width="1000" height:"500" title="Starting interface">
+  <img src="interface.png" width="500" height:"500" title="Starting interface">
 </span>
 <br>
 <p>If I make the sign of 'A' then it will predict that it is "A" </p>
