@@ -29,4 +29,4 @@
 </span>
 <br>
 <br>
-<p>I am also using Python library named "spellchecker" to check the spelling of a particular word and if it is wrong then it will try to correct it.</p>
+<p>I am also using Python library named "spellchecker" to check the spelling of a particular word and if the spelling is wrong then the library will try to correct it.</p>
