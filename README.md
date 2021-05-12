@@ -3,14 +3,18 @@
 <h3> It is a small Deep Learning project to predict the sign language.</h3>
 <p>Make any sign in red box and  it will predict the character associated with that sign in sign language.</p>
 <span>
-  <img src="interface.png" width="500" height:"500" title="Starting interface">
+  <img src="interface.png" width="700" height:"500" title="Starting interface">
 </span>
 <br>
-<p>If I make the sign of 'A' then it will predict that it is "A" </p>
+<br>
+<p>If I make the sign of 'A' then it will predict that it is "A". </p>
+<br>
 <br>
 <span >
-  <img src="ia.png" width="500" height="500" title="Enter non spam text">
+  <img src="ia.png" width="700" height="500" title="Enter non spam text">
 </span>
+<br>
+<p>Similarly it can predict any sign. </p>
 <br>
 <span >
   <img src="f.png" width="500" height="500" title="after pressing predict button">
