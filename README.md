@@ -9,15 +9,15 @@
 <p>If I make the sign of 'A' then it will predict that it is "A" </p>
 <br>
 <span >
-  <img src="ia.png" width="1000" height="500" title="Enter non spam text">
+  <img src="ia.png" width="500" height="500" title="Enter non spam text">
 </span>
 <br>
 <span >
-  <img src="f.png" width="1000" height="500" title="after pressing predict button">
+  <img src="f.png" width="500" height="500" title="after pressing predict button">
 </span>
 <br>
 
 <span>
-  <img src="e.png" width="1000" height="500" title="Enter spam text">
+  <img src="e.png" width="500" height="500" title="Enter spam text">
 </span>
 
